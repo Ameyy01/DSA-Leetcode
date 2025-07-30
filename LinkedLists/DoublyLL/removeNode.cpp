@@ -1,3 +1,4 @@
+//They won't ask to remove head as the node. Because it getss very complicated 
 #include<bits/stdc++.h>
 using namespace std;
 class Node {
